@@ -21,7 +21,7 @@ Our goal was to answer **business-style analytical questions** using Python, dat
 
 ---
 
-## 📊 Business / Research Questions
+## Business / Research Questions
 
 We answered the following five questions in our Jupyter Notebook:
 
@@ -39,7 +39,7 @@ Each question includes:
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 Inside the notebook (`Crime.ipynb`), we:
 
@@ -52,7 +52,7 @@ Inside the notebook (`Crime.ipynb`), we:
 
 ---
 
-## 📈 Key Insights (Summary)
+## Key Insights (Summary)
 
 - Violent crime **peaked in 2016–2017** and steadily decreased through 2020.  
 - **Robbery** is the most common violent crime by a very large margin.  
@@ -62,7 +62,7 @@ Inside the notebook (`Crime.ipynb`), we:
 
 ---
 
-## 📁 Files in This Repository
+## Files in This Repository
 
 | File | Description |
 |------|-------------|
@@ -71,7 +71,7 @@ Inside the notebook (`Crime.ipynb`), we:
 | `chicago_crime_2015_2020.csv` | Dataset used for the analysis |
 | `README.md` | Project documentation (this file) |
 | `requirements.txt` | Python libraries needed to run this project |
-| `Chicago Crime project.pptx` | (Optional) Presentation slides |
+| `Chicago Crime project.pptx` | Presentation slides |
 
 ---
 
